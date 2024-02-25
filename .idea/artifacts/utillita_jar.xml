@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="utillita:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/utillita_jar</output-path>
+    <root id="archive" name="utillita.jar">
+      <element id="module-output" name="utillita" />
+    </root>
+  </artifact>
+</component>
